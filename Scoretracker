@@ -1,1 +1,5 @@
+import openpyxl
+from openpyxl import Workbook, load_workbook
+import os
 
+excel_file = "student_scores.xlsx"
